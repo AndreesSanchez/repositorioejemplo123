@@ -23,6 +23,7 @@ a continuacion un _enlace_ o *link*
 [Discord](https://discord.com)
 
 a continuacion una ***imagen***
+
 ![Yeison](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWfZD9fim8Z01pbCU0Fy6M8sJc0Nv_-sSNxuU-RY&s)
 
 ## Titulo 2
